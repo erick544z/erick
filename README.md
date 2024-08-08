@@ -2,7 +2,7 @@
 
 Meu nome erick de souza
 
-- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -10,4 +10,4 @@ Meu nome erick de souza
 
  00001092360797SP@al.educacao.sp.gov.br
 
-![]()
+![](https://media1.tenor.com/m/_rrC613KIJMAAAAC/the-simpsons-homer-simpson.gif)
