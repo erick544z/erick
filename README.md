@@ -10,7 +10,4 @@ Meu nome erick de souza
 
  00001092360797SP@al.educacao.sp.gov.br
 
-![](https://media1.tenor.com/m/_rrC613KIJMAAAAC/the-simpsons-homer-simpson.gif)
-
-
-![](https://tenor.com/pt-BR/view/peter-griffin-dance-dancing-fast-gif-12406113661391585313)
+![](https://media1.tenor.com/m/oX8Mt8wuIhoAAAAC/lies-of-p-cybervist.gif)
